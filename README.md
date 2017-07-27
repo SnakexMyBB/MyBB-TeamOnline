@@ -4,7 +4,7 @@ TeamOnline plugin for MyBB
 
 Plugin that displays the team forum active at any given time.
 
-[b]Installation:[/b]
+<b>Installation</b>:
 
 1. Upload files in accordance with the structure of the directories on the server.
 2. Install & Activate plugin in ACP.
