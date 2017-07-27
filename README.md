@@ -11,3 +11,5 @@ Plugin that displays the team forum active at any given time.
 3. Add to <b>index</b> template <b>{$teamOnline}</b>.
 
 License <b>GNU GPL v3</b>.
+
+Required PHP version >= <b>5.4</b>.
