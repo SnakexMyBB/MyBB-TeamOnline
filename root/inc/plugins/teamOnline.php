@@ -26,7 +26,7 @@ function teamOnline_info()
 		'author'		=> 'Mateusz "Snake_" Ciećka',
 		'authorsite'	=> 'http://polski-freeroam.pl',
 		'version'		=> '2.0',
-        'codename'      => 'teamonline',
+        'codename'      => 'team_online',
 		'compatibility' => '18*'
 	];
 }
